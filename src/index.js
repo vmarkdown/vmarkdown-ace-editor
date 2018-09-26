@@ -10,7 +10,7 @@ class AceEditor extends Editor {
 
         this.editor = ace.edit("editor", {
             highlightActiveLine: false,
-            showGutter: false
+            // showGutter: false
             // options
             // fontFamily: '"Microsoft YaHei","WenQuanYi Micro Hei",SimSun,Song,sans-serif'
         });
